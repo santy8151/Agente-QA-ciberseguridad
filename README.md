@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-00ff88?style=for-the-badge)
 
 > Página web de análisis de vulnerabilidades, análisis forense digital y aprendizaje en ciberseguridad.  
-> Desarrollada como proyecto integrador para las materias de **Introducción a la Seguridad Informática** y **Pruebas y Calidad del Software** — CUN Bogotá 2025.
+> Desarrollada como proyecto integrador para las materias de **Introducción a la Seguridad Informática** y **Pruebas y Calidad del Software** 
 
 ---
 
