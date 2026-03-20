@@ -231,22 +231,12 @@ TryHackMe           → https://tryhackme.com
 
 ---
 
-## 👤 Autor
-
-**Santiago**  
-Estudiante de Ingeniería Industrial  
-Corporación Unificada Nacional de Educación Superior — **CUN Bogotá**  
-Materias: Introducción a la Seguridad Informática · Pruebas y Calidad del Software  
-Año: 2025
-
----
-
 ## 📄 Licencia
 
 Este proyecto está bajo la licencia **MIT** — puedes usarlo, modificarlo y distribuirlo libremente dando crédito al autor.
 
 ```
-MIT License — Copyright (c) 2025 Santiago — CUN Bogotá
+MIT License — Copyright (c) 2025 Santiago — ITM
 ```
 
 ---
